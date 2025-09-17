@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="priority_low">LOW</string>
+    <string name="priority_medium">MEDIUM</string>
+    <string name="priority_high">HIGH</string>
+    <string name="search_hint">Search</string>
+    <string name="add_task">Add task</string>
+</resources>
+
